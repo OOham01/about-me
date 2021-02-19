@@ -3,8 +3,8 @@
 </p>
 
 <p align="center"> 
- سەردانکەران<br><br>
-  <img src="https://profile-counter.glitch.me/codenashwan/count.svg" />
+ Viewers<br><br>
+  <img src="https://profile-counter.glitch.me/hama/count.svg" />
 </p>
 
 <h3 align="center">hi 👋, I am Hama</h1>
